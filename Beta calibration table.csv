@@ -1,0 +1,13 @@
+﻿OAC,OAC Description,ATD OBS,ATD PRED,DIFF,DIFF SQUARED,Beta
+1,Rural Residents,8.275445567,8.278848831,0.00,1E-05,0.105
+2,Cosmopolitans,3.021708105,3.01773323,0.00,2E-05,0.212
+3,Ethnicity Central,3.365329897,3.367767937,0.00,6E-06,0.143
+4,Multicultural Metropolitans,3.242730459,3.244824033,0.00,4E-06,0.204
+5,Urbanites,2.88531012,2.887492455,0.00,5E-06,0.404
+6,Suburbanites,5.389930449,5.394123313,0.00,2E-05,0.158
+7,Constrained City Dwellers,3.955272302,3.959583683,0.00,2E-05,0.18
+8,Hard-Pressed Living ,4.935256959,4.933743336,0.00,2E-06,0.153
+,,,,,8.09307E-05,
+,,,,,,
+,,,,,,
+,Sum of Squares - this value will get smaller (lower) as you improve the fit between observed and predicted ATD,,,,,
